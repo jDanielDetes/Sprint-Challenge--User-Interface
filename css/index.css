@@ -154,6 +154,10 @@ header nav a {
     
 }
 
+header nav a:hover{
+color: teal;
+}
+
 header{
     margin: 20px;
 }
@@ -194,3 +198,5 @@ header{
 .boxes div:nth-child(10){
     background: dodgerblue;
 }
+
+/* about page css below */
